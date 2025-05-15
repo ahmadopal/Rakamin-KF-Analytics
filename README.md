@@ -96,6 +96,7 @@ JOIN
   `kimia_farma.kf_product` p
 ON
   ft.product_id = p.product_id
+```
 
 ---
 
@@ -108,3 +109,17 @@ An interactive dashboard was built with the following insights:
 -  Top 10 Nett Sales by Branch/Province
 -  High-rated Branches with Low Transactions
 -  Profit Distribution across Regions
+
+---
+## 📊 Dashboard
+
+<p align="center">
+  <a href="https://lookerstudio.google.com/reporting/b1596abe-4de3-4a3e-8857-c3df16592574"target="_blank">
+    <img src="https://github.com/user-attachments/assets/b88f0ac4-6003-441f-81a2-214156502a7f" alt="Dashboard Preview" width="800">
+  </a>
+</p>
+![Dashboard](https://github.com/user-attachments/assets/b88f0ac4-6003-441f-81a2-214156502a7f)
+
+🔗 [View Full Dashboard on Looker Studio](https://lookerstudio.google.com/reporting/b1596abe-4de3-4a3e-8857-c3df16592574)
+
+---
